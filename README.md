@@ -5,7 +5,6 @@ This project presents a comprehensive Credit Card Financial Dashboard developed 
 * Overview <br />
 * Features <br />
 * Project Structure <br />
-* Data Sources <br />
 * Technologies Used <br />
 
 # Overview
@@ -16,15 +15,6 @@ The **Credit Card Financial Dashboard** is designed to provide stakeholders with
 * **Customer Insights:** Displays customer behavior metrics, including satisfaction ratings and segment performance. <br />
 * **Weekly Reports:** Offers data segmented by weeks, showcasing trends over specific periods. <br />
 * **Data Processing with DAX:** Utilizes DAX formulas to create calculated columns and measures for in-depth analysis. <br />
-
-# Project Structure
-The repository contains the following key files: <br />
-
-* **Credit Card Financial Dashboard.pbix:** The main Power BI dashboard file.<br />
-* **CC SQL Query.sql:** SQL scripts used for data extraction and transformation. <br />
-* **cc_add.csv, credit_card.csv, cust_add.csv, customer.csv:** Sample datasets used in the project. <br />
-* **CC Insights Report.pdf:** A report summarizing key insights derived from the dashboard. <br />
-* **README.md:** This documentation file. <br />
 
 # Data Sources
 The dashboard utilizes data from multiple CSV files: <br />
