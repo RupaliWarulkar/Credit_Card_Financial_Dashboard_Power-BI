@@ -9,7 +9,7 @@ This project presents a comprehensive Credit Card Financial Dashboard developed 
 * Technologies Used <br />
 
 # Overview
-The Credit Card Financial Dashboard is designed to provide stakeholders with real-time insights into key performance metrics and trends related to credit card operations. By leveraging data visualization techniques, the dashboard aids in monitoring transaction volumes, revenue performance, customer demographics, and more.
+The **Credit Card Financial Dashboard** is designed to provide stakeholders with real-time insights into key performance metrics and trends related to credit card operations. By leveraging data visualization techniques, the dashboard aids in monitoring transaction volumes, revenue performance, customer demographics, and more.
 
 # Features
 Transaction Analysis: Visualizes transaction volumes, revenue, and performance by card type.< br / >
